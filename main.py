@@ -6,10 +6,10 @@ device_lib.list_local_devices()
 
 # Specify where the photos are. You will need to put them inside a folder, inside the directory you specify.
 # Yes, a folder within a folder.
-datadir = r'C:\Users\William\PycharmProjects\GAN PRODUCTION\GAN production\trainingphotos'
+datadir = r'C:\...\ThisFolder\trainingphotos'
 
 # If you want to save or load models, you will need to specify where to save/load them to/from.
-modeldir = r"C:\Users\William\PycharmProjects\GAN PRODUCTION\GAN production\MODELS"
+modeldir = r"C:\...\ThisFolder\MODELS"
 
 
 # Create the GAN model
