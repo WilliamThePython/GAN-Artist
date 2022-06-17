@@ -28,7 +28,7 @@ print(artist.discriminator.summary())
 # Train the 'artist'. Using the train_dataset created upon model initialisation.
 # Second variable is the number of epochs (training steps) to do.
 # You will need at least 100 epochs to get anything interesting, likely many, many more.
-# artist.train(artist.train_dataset, 10)
+artist.train(artist.train_dataset, 10)
 
 # Generate a GIF of random noise
 # epochs are the number of epochs to train between each frame.
