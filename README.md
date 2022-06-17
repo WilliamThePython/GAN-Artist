@@ -1,6 +1,12 @@
 # GAN-Artist
 A relatively simple Generator Adversarial Network algorithm which can take in photos and learn to replicate them.
 
+1. In the main.py file, you will need to change the directories to point to the trainingphotos directory and the model directory respectively.
+2. Then just run the main.py file. Do 10 epochs at first and then generate an image to make sure things are working.
+3. Then do 100 epochs, and print another image, should look slightly more like a flower?
+4. Try 1000, epochs, or let it run overnight!
+
+
 This model uses a combination of photos which i didn't take myself, and some functions which i also didnt write myself.
 I dont remember where I got either of them, unfortunetely. It's been a long time since I wrote this code.
 Therefore, do whatever you want with this. I wont claim to be offended if you take this, distribute it, adapt it, do what you will.
