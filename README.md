@@ -11,3 +11,6 @@ The photos which I didnt take, but used for training are located in the 'trainin
 
 Look in the main.py file for a simple run down on how to use this GAN model to generate images. 
 I must admit, its not very good! But good enough to wow your friend(s)!
+
+Also, I should add a warning for epileptics or visually sensitive people. 
+This code tends to make gifs which are very, VERY, hard on the eyes sometimes due to flashing colours. Please be safe.
